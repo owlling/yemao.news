@@ -35,6 +35,6 @@ $('.scroll-top').click(function() {
 
 //update time 
 function s(){
-document.getElementById("updatetime").innerText = "⊙ 更新于3月31日";
+document.getElementById("updatetime").innerText = "⊙ 更新于2021年4月22日";
 }
 
